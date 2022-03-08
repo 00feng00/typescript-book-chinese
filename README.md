@@ -4,8 +4,6 @@
 
 ## Why
 
-<img :src="$withBase('/typescript-downloads.jpg')" alt="ide"/>
-
 > 数据来源：[npm 包下载量](https://npm-stat.com/charts.html?package=typescript&from=2016-01-01&to=2018-07-31)
 
 如你所见，TypeScript 发展至今，已经成为大型项目的标配，其提供的静态类型系统，大大增强了代码的可读性以及可维护性；同时，它提供最新和不断发展的 JavaScript 特性，能让我们建立更健壮的组件。
